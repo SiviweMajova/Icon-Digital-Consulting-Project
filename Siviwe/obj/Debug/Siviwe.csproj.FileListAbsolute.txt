@@ -1,0 +1,19 @@
+c:\users\nsika\documents\visual studio 2015\Projects\Siviwe\Siviwe\bin\Debug\Siviwe.exe.config
+c:\users\nsika\documents\visual studio 2015\Projects\Siviwe\Siviwe\bin\Debug\Siviwe.exe
+c:\users\nsika\documents\visual studio 2015\Projects\Siviwe\Siviwe\bin\Debug\Siviwe.pdb
+c:\users\nsika\documents\visual studio 2015\Projects\Siviwe\Siviwe\obj\Debug\Siviwe.csprojResolveAssemblyReference.cache
+c:\users\nsika\documents\visual studio 2015\Projects\Siviwe\Siviwe\obj\Debug\Siviwe.Form1.resources
+c:\users\nsika\documents\visual studio 2015\Projects\Siviwe\Siviwe\obj\Debug\Siviwe.Properties.Resources.resources
+c:\users\nsika\documents\visual studio 2015\Projects\Siviwe\Siviwe\obj\Debug\Siviwe.csproj.GenerateResource.Cache
+c:\users\nsika\documents\visual studio 2015\Projects\Siviwe\Siviwe\obj\Debug\Siviwe.exe
+c:\users\nsika\documents\visual studio 2015\Projects\Siviwe\Siviwe\obj\Debug\Siviwe.pdb
+C:\Users\sjmaj\OneDrive\Desktop\Siviwe\Siviwe\bin\Debug\Siviwe.exe.config
+C:\Users\sjmaj\OneDrive\Desktop\Siviwe\Siviwe\bin\Debug\Siviwe.exe
+C:\Users\sjmaj\OneDrive\Desktop\Siviwe\Siviwe\bin\Debug\Siviwe.pdb
+C:\Users\sjmaj\OneDrive\Desktop\Siviwe\Siviwe\obj\Debug\Siviwe.csprojAssemblyReference.cache
+C:\Users\sjmaj\OneDrive\Desktop\Siviwe\Siviwe\obj\Debug\Siviwe.Properties.Resources.resources
+C:\Users\sjmaj\OneDrive\Desktop\Siviwe\Siviwe\obj\Debug\Siviwe.csproj.GenerateResource.cache
+C:\Users\sjmaj\OneDrive\Desktop\Siviwe\Siviwe\obj\Debug\Siviwe.csproj.CoreCompileInputs.cache
+C:\Users\sjmaj\OneDrive\Desktop\Siviwe\Siviwe\obj\Debug\Siviwe.exe
+C:\Users\sjmaj\OneDrive\Desktop\Siviwe\Siviwe\obj\Debug\Siviwe.pdb
+C:\Users\sjmaj\OneDrive\Desktop\Siviwe\Siviwe\obj\Debug\Siviwe.frmSales.resources
